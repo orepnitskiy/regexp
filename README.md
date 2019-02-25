@@ -1,14 +1,4 @@
 # Regexp practice
-Next
-Programming Assignment: Практическое задание по регулярным выражениям
-Passed · 1/1 points
-Deadline	
-The assignment was due on February 17, 11:59 PM PST
-You can still pass this assignment before the course ends.
-Instructions
-My submission
-Discussions
-Описание задания
 В этом задании нужно написать программу, которая найдет в тексте ряд простых арифметических выражений и подсчитает их.
 
 Любое выражение начинается с имени переменной a, b или c, затем может идти + или -, затем идет =, затем может идти имя переменной a, b или c, а затем может идти + или - и целое число. Если в правой части выражения нет переменной, то число может быть без знака + или -
